@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tsar-Tusker I go by Radix/Radixian - Name: Ravindu Dolawatta
+- 👋 Hi, I’m Ravindu Dolawatta, and I go by Radixian
 - 👀 I’m interested in ... Everything
 - 🌱 I’m currently learning ... Systems Engineering | Network Engineering | DevOps
 - 💞️ I’m looking to collaborate on ... (If I have time, for anything)
